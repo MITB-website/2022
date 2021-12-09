@@ -1,9 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'MUSIC IN THE BARN'
 description: null
-image: null
+image: 
 author: null
 show_tile: false
 ---
